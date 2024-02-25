@@ -16,4 +16,4 @@ slint-build = "1.4"
 
 [package.metadata.bundle]
 name= "Income Divider"
-indentifier= "io.github.pedrojcaceres.project:"
+indentifier= "io.github.pedrojcaceres.income-desktop-app"
